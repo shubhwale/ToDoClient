@@ -1,3 +1,7 @@
+# Client application for ToDo Manager 
+
+Frontend service
+
 # HelloClient
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
